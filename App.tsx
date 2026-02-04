@@ -250,7 +250,7 @@ const App: React.FC = () => {
         if (updateTitle && currentTrack) {
             document.title = `${currentTrack.title} • ${currentTrack.artist.name}`;
         } else {
-            document.title = "SpoFree - High Fidelity Streaming";
+            document.title = "Kalfree - High Fidelity Streaming";
         }
     }, [currentTrack, updateTitle]);
 
