@@ -839,7 +839,7 @@ const App: React.FC = () => {
                         )}
                     </div>
                     <div className="hidden md:flex items-center gap-4">
-                        <Button variant="secondary" size="sm" onClick={() => window.open('https://github.com/mohibalkal/kalfree', '_blank')} className="flex items-center gap-2">
+                        <Button variant="secondary" size="sm" onClick={() => window.open('https://github.com/mohibalkal/kalfree/tree/main', '_blank')} className="flex items-center gap-2">
                             <Github size={16} /><span>GitHub</span>
                         </Button>
                     </div>
