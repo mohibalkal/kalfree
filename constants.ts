@@ -1,7 +1,7 @@
 
 import { Track } from './types';
 
-// List of public Hifi API instances provided by the user.
+// List of public mozic API instances provided by the user.
 export const API_INSTANCES = [
   'https://wolf.qqdl.site',
   'https://maus.qqdl.site',
