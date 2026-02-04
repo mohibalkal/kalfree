@@ -76,7 +76,7 @@ const translations: Record<'EN' | 'AR', Record<string, string>> = {
         albums: 'الألبومات',
         artists: 'الفنانون',
         playlists: 'قوائم التشغيل',
-        connected: 'متصل بـ Hifi API',
+        connected: 'متصل بـ mozic API',
         language: 'اللغة',
         arabic: 'العربية',
         english: 'الإنجليزية',
